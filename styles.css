@@ -1,0 +1,53 @@
+/* styles.css */
+
+/* Body background color */
+body {
+    background-color: #a8983f; /* Light gray */
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: #909618; /* Blue */
+    color: #fff; /* White text */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation menu styles */
+nav ul {
+    list-style: japanese-formal;
+    padding: 0;
+    text-align: center;
+    background-color: #25cab5; /* Green */
+    margin-top: 20px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Main content styles */
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer styles */
+footer {
+    background-color: #909618; /* Red */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
